@@ -1,0 +1,131 @@
+Package: com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 306
+Depends: firmware (>= 7.0)
+Filename: ./pool/altlist_1.0.8.deb
+Size: 46412
+MD5sum: a09c874d849e30e7e2551e7a958b44cc
+SHA1: a9db03b1441bbca0eb68a975d316cb8fa4a352e1
+SHA256: 1e49232ed221001b716e0c612cfbc82038d0a85a5180314202f8169c9157c493
+SHA512: 16782681fe3edf6f94c2a4efd14cbfdf20e8efad23c46828b05916a3ea1397fac2d93e8aa6eb8dbf7c0566f45e61ff9db2ffda7202b04293eb098878c0c44483
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Description: A modern AppList alternative
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: AltList
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+
+Package: org.coolstar.libhooker-shim
+Architecture: iphoneos-arm
+Version: 0.0.1.1
+Section: Development
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Provides: org.coolstar.libhooker (= 1.6.9-1)
+Conflicts: org.coolstar.libhooker
+Filename: ./pool/lh_shim_provides.deb
+Size: 5542
+MD5sum: 1191ea050695c317e2e4a0e0df07f8d8
+SHA1: 97e4e1a21a7266b9abbabfa1822a9793951864a5
+SHA256: 103cbbb231cbfcd323eeb430ee7d29a0516e8f97a45a9acaab28721dc961e935
+SHA512: 1e45cb60dfa859b2c7c821e132b33b264c9c361f4d7511c856eb1a56ea8e315b9e7ebb1432ca29c53ff32737f85d7175744f71d39eded1c9f2e425fd3d811940
+Description: shim for those who can't use the real libhooker (e.g. iOS 10 or arm32)
+Name: libhooker-shim
+Author: CoolStar <coolstarorganization@gmail.com>
+
+Package: net.kdt.pojavlauncher.development
+Architecture: iphoneos-arm
+Version: 2.1
+Priority: optional
+Section: Games
+Maintainer: PojavLauncherTeam <https://discord.gg/6RpEJda>
+Depends: openjdk-8-jre | openjdk-16-jre | openjdk-8-jdk | openjdk-16-jdk, firmware (>= 12.0), firmware (<< 15.0)
+Conflicts: pojavlauncher-dev, pojavlauncher-zink, pojavlauncher, net.kdt.pojavlauncher.release, net.kdt.pojavlauncher.release-rootless, net.kdt.pojavlauncher.development-rootless
+Replaces: pojavlauncher-dev, pojavlauncher
+Filename: ./pool/net.kdt.pojavlauncher.development_2.1_iphoneos-arm.deb
+Size: 23185664
+MD5sum: 05b4ccb9ae859e4ee46d1afa434eddce
+SHA1: 84468f8800f3488ae631c3f4f6370449bb758dc9
+SHA256: f0c1b9b3853ff543d1c085a3f9b79f7163a6f2057e32b412b21265e5738a0b72
+SHA512: be388657716bc9aaf76c07155a03041c509a1bfe3556fc1749b4301c964aa21ec7f628333f007b81a16017e3070744b25c24c5d28885da60b89a2478477f69ac
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Name: PojavLauncher iOS (Development)
+Author: DuyKhanhTran
+Icon: https://repository.crystall1ne.software/images/pojavlauncher_icon.png
+SileoDepiction: https://repository.crystall1ne.software/depictions/natives/net.kdt.pojavlauncher.development.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Packaging
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.3_iphoneos-arm.deb
+Size: 1997556
+MD5sum: 8ec089704f0bd944d914ff044fef91a4
+SHA1: c3fc6093b43b37d41fd95bcfc7cb7852fc544870
+SHA256: d7cec451c30724bf92aec88ff217aa83a310ee87eab3fca438fce688a6d179ee
+SHA512: cedcd583b51118fd13107eb6dfc1bcfe7c1bbf5aee9a5364e38b439d7f60a34e9c016b048e912801f6edccfb1c15f531f06cc864185860fa9c3f2d3e74ddc0ff
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.1.0~libhooker2~ploosh1
+Section: Tweaks
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: org.coolstar.libhooker-shim
+Filename: ./pool/rocketbootstrap_1.1.0_libhooker2-ploosh1-iphoneos-arm.deb
+Size: 10568
+MD5sum: 4bfdf4f40b04feec9fc72c475db38285
+SHA1: 1c21068ad53b01e327f278f9f24f03b703d9b283
+SHA256: bc22179de01286b9ce92ada13f7cf456f83ae2be64dbb808b2d8a6a44f55aba4
+SHA512: 0888ea3cd3da9451c65fe1663d770414a8647d5ddfae2476edde0af78eb9cec1f66b5f34bb7f743d211612ef03e44e7e4ac6ca749c0956abe4a70970d133dd72
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Developer: rpetrich
+
+Package: xyz.plooshi.firsttweak
+Architecture: iphoneos-arm
+Version: 0.0.1-9+debug
+Section: Tweaks
+Maintainer: guacaplushy
+Installed-Size: 188
+Depends: com.ex.substitute
+Filename: ./pool/xyz.plooshi.firsttweak_0.0.1-9debug_iphoneos-arm.deb
+Size: 174054
+MD5sum: c670b080b98aebd00b0bb0389043e576
+SHA1: cd09f082ffc79adf431bb384150f765010a37c21
+SHA256: 6c6f2faa2602e3a098c9bb4ab5cd5ef7c1f16ee8e8c611e16a1d5ea0f0043663
+SHA512: ce6b436083d5c3aa8f3d13255203049d8a585d5e26c16f742f7cef9a533cf9ed0200e7b86f5e5214ae5437a348432eaa207b77175ecbc9c36823a808fe73f65e
+Description: My first tweak!
+Name: FirstTweak
+Author: guacaplushy
+
+Package: xyz.plooshi.p1theme
+Architecture: iphoneos-arm
+Version: 1.0.2-1+debug
+Section: Themes
+Maintainer: guacaplushy
+Installed-Size: 152
+Depends: firmware (>= 15.0), com.spark.snowboard (>=1.5), com.spark.snowboard.respringextension
+Filename: ./pool/xyz.plooshi.p1theme_1.0.2-1debug_iphoneos-arm.deb
+Size: 123912
+MD5sum: 3993c3ce5502662b70f6879602c0a645
+SHA1: 4336c43c1eda91a6098a9b4e77905833b5be52d2
+SHA256: 9efa2b946d14a5c45cdc5363e8dfdbde46471ef2b71dd1b82239ff1d1aca271f
+SHA512: d9c2c0bc3c9e4fd2245d7da738204d1d6f2e4df807c302f5c11c2369121d5ed367805d749e6e197e5f1c6bcbbba2cd5439e7adc63ca1c950803106c8e1463b4b
+Description: palera1n theme!
+Name: palera1n theme
+Author: guacaplushy
+

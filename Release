@@ -1,0 +1,45 @@
+Architectures: iphoneos-arm
+Codename: guaca-repo
+Components: main
+Date: Sat, 07 Jan 2023 16:18:39 +0000
+Description: meow
+Label: Plooshi's repo
+Origin: Plooshi's repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 0092bd24a70d079831c153e53818cd07             5873 Packages
+ 011c29690282313711e51aaa8edfd754             2728 Packages.bz2
+ 436e3a0f8c171826d57f3ec58174b274             2669 Packages.gz
+ 3e8ec9c0b388647919f036e54baac1ec             3795 Packages.lz4
+ 467b7ce215f2346adf800785d19cc178             2594 Packages.lzma
+ ded9f01910d91e282b80dfadd7e532a7             2640 Packages.xz
+ 187282b89925e4c3dd095dd7fc43e4eb             2608 Packages.zst
+ db1d92d98d0a208a7da40acee4e21ef0              194 Release
+SHA1:
+ f8f0cf29a8efc77eb227f5de79ce61bf47c67381             5873 Packages
+ 84fd3f7a7198bb18d232ac9a334a347dab2089c1             2728 Packages.bz2
+ 7ac939fdfb538fa8bc0aa185575d767cbdc3be17             2669 Packages.gz
+ 7376a213e641e0e8d850c691c2527966274de225             3795 Packages.lz4
+ 7ab244b8b78a11a0ce31e34da2d34494255dc42c             2594 Packages.lzma
+ 3a93f111d53ec9aa69f49eec39231992c5731cd7             2640 Packages.xz
+ fea4eeddf008e5e9be0bd99bb95b5a89cc0f0d37             2608 Packages.zst
+ 6e91b5968137caef6ea388122235cdadc14ee5a2              194 Release
+SHA256:
+ 173a87126330b404f30630f31e73f9b2f6fe32821c9c4823a1081da593b60f65             5873 Packages
+ 3847f1e86fd7571f667a32bfcfb3bbcdd2760bcb42699b4b0b6622edc027ed55             2728 Packages.bz2
+ 7b2df34d56dfa5d2819e27c82410c50d81856335671af68ef79bb178ee552b07             2669 Packages.gz
+ 9698999f7dc94df3aec298f1daf88d70cdb0b26f3dfe2b381da12feac06c41f2             3795 Packages.lz4
+ adc1fa29abd12270f3a57220ab0cbd5fa6b336af1b5d2dfbe45d1bc61de8182b             2594 Packages.lzma
+ 5d610113d2ad2f3d21920aecd27ba9a44a0c050fc896d6a35ee972538de40755             2640 Packages.xz
+ 14a15a6f2d7a8e1053284f39cf8cc5393eab45c0f061624d83f75e20030330b0             2608 Packages.zst
+ acc65c03662051c111e49454b0f2e6a069d3072ea96a510156712ebfbbfd0926              194 Release
+SHA512:
+ 08b01d5c887f32c4412526e67b4897d250939d9e964acbc3fb74afdb6219caaeb3c015ab446aaad6ac49aaa7ff5ae4576463b80e8f5fba666e81ca9c643e11e0             5873 Packages
+ 13032a21238991a4a599b77e3c75781bc4c0faabb391729fb7621bac330a7839dc67f332a89b7e5542cd4396965aa1b9e9180aa6b87242418c634e0733a08725             2728 Packages.bz2
+ 94569589d81caddbe0ea5d520514ea66dc05b8744e7b8cda738216e4e89d2bbd2afe98baf69fd5ae1841977e53c5fbd379c48ff3d095a4e14e6a664c98cb17c5             2669 Packages.gz
+ 2ab8aa17a1102f71f49754ad398815d76ca8b230dc8932d10626755c7ac7d28d5ce6267a96a622d025700ab8ed039a43b9fd5878ed7d7f7237aee36e6c277563             3795 Packages.lz4
+ e229bf7dab4d68ef752c7e5fd721ee92d2b477ff1aa52d93e7916e87b154801e8066f0c2204a957982e92d56e64ee02d5523ea24a350d51e95271f6cbbcd2a7a             2594 Packages.lzma
+ 2ddefda0aba34838f17f922137174cdcb1e30693ef01a85eea4e51d3070454e3c6ad98385b266f1d8f80a872409f592d0e1f25e9390064570de395a5767d49ba             2640 Packages.xz
+ 245cd50a5f296be9744108edecbe66882b4c2aa41c2e01314d0127b9d407da09596813687de2156537510a2971f5f05ca609c2d0ef9994a2c089a4fca452b72b             2608 Packages.zst
+ e6b54b89d19cfbce0e9b140d661de4ec63a2c799177e844d9ec981121547064fd503fd9aac75ee393b3cc579bb4a3d011ef2e53731fbbd9e17b6b3229d46661f              194 Release
